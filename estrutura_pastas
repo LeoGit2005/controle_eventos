@@ -1,0 +1,11 @@
+src/
+└── main/
+    ├── java/com/exemplo/controleeventos/
+    │   ├── ControleEventosApplication.java
+    │   └── model/
+    │       ├── Evento.java
+    │       ├── Local.java
+    │       └── Participante.java
+    └── resources/
+        ├── application.properties
+        └── static/
